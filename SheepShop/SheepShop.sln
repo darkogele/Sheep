@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheepShop.Logic", "SheepShop.Logic\SheepShop.Logic.csproj", "{4C4E2F50-F735-4BC6-AC2B-9085D55C55AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheepShop.WebApi", "SheepShop.WebApi\SheepShop.WebApi.csproj", "{92E8A232-F509-4F69-8C9C-BE54B8F9F253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4E2F50-F735-4BC6-AC2B-9085D55C55AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4E2F50-F735-4BC6-AC2B-9085D55C55AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4E2F50-F735-4BC6-AC2B-9085D55C55AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4E2F50-F735-4BC6-AC2B-9085D55C55AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E8A232-F509-4F69-8C9C-BE54B8F9F253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E8A232-F509-4F69-8C9C-BE54B8F9F253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E8A232-F509-4F69-8C9C-BE54B8F9F253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E8A232-F509-4F69-8C9C-BE54B8F9F253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86587D6F-0408-46E3-86D5-3BC6FDD86D4B}
+	EndGlobalSection
+EndGlobal

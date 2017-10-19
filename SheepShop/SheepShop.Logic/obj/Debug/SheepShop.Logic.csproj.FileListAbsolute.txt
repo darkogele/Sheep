@@ -1,0 +1,7 @@
+C:\Users\Darko\source\repos\SheepShop\SheepShop.Logic\bin\Debug\SheepShop.Logic.dll
+C:\Users\Darko\source\repos\SheepShop\SheepShop.Logic\bin\Debug\SheepShop.Logic.pdb
+C:\Users\Darko\source\repos\SheepShop\SheepShop.Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darko\source\repos\SheepShop\SheepShop.Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darko\source\repos\SheepShop\SheepShop.Logic\obj\Debug\SheepShop.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\SheepShop\SheepShop.Logic\obj\Debug\SheepShop.Logic.dll
+C:\Users\Darko\source\repos\SheepShop\SheepShop.Logic\obj\Debug\SheepShop.Logic.pdb
